@@ -1,6 +1,6 @@
 # [ECCV 2026] CAI: Context-Aware Attention Intervention
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2507.00898-red)](http://arxiv.org/abs/2507.00898) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2606.29847-red)](https://arxiv.org/pdf/2606.29847)
 [![Conference](https://img.shields.io/badge/ECCV-2026-blue)](https://eccv.ecva.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -55,15 +55,15 @@ Our codebase is built upon several excellent open-source projects. We would like
 
 If you have any questions, please  contact [leiyuqing231@mails.ucas.ac.cn](mailto:leiyuqing231@mails.ucas.ac.cn).
 
-<!-- ## 📌 BibTeX & Citation
+## 📌 BibTeX & Citation
 
 If you find this code useful, please consider citing our work:
 
 ```bibtex
-@article{wan2025only,
-  title={ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models},
-  author={Wan, Zifu and Zhang, Ce and Yong, Silong and Ma, Martin Q and Stepputtis, Simon and Morency, Louis-Philippe and Ramanan, Deva and Sycara, Katia and Xie, Yaqi},
-  journal={arXiv preprint arXiv:2507.00898},
-  year={2025}
+@article{lei2026cai,
+  title={See Only When Needed: Context-Aware Attention Intervention for Mitigating Hallucinations in LVLMs}, 
+  author={Yuqing Lei and Wenbo Lyu and Yingjun Du and Xiantong Zhen and Cees G. M. Snoek and Ling Shao},
+  journal={arXiv preprint arXiv:2606.29847},
+  year={2026}
 }
-``` -->
+```
